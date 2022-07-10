@@ -1,6 +1,3 @@
-"Set tab size"
-set tabstop=4
-
 call plug#begin()
 
 " On-demand loading
@@ -50,8 +47,27 @@ inoremap <C-j> <Down>
 inoremap <C-k> <Up>
 inoremap <C-l> <Right>
 noremap <silent> <F2> :FZF<CR>
-nnoremap <silent> <F6> :NERDTree<CR>
+nnoremap <silent> <F4> :NERDTree<CR>
 nnoremap <silent> <F3> :Goyo<CR>
 nnoremap <silent> <Leader>+ :exe "resize " . (winheight(0) * 3/2)<CR>
 nnoremap <silent> <Leader>- :exe "resize " . (winheight(0) * 2/3)<CR>
+nnoremap <silent> <C-c> :call system("xclip -selection clipboard", @")<CR>
+map <F5> :!g++ -g % -o %:r && ./%:r <CR>
+
+
 set number 
+set clipboard=unnamed
+set mouse=a
+set tabstop=2
+set autoindent
+set shiftwidth=2
+set softtabstop=2
+set smarttab
+set expandtab
+set smartcase
+set backspace=indent,eol,start
+set t_Co=256
+
+filetype on
+filetype indent on
+syntax enable
