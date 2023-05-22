@@ -1,10 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =8
-let g:netrw_dirhist_8='/home/mai/.config/fish/functions'
-let g:netrw_dirhist_7='/home/mai/git'
-let g:netrw_dirhist_6='/home/mai/Codeforces/div4_806'
-let g:netrw_dirhist_5='/home/mai/Codeforces/div3_805'
-let g:netrw_dirhist_4='/home/mai/.config/polybar'
-let g:netrw_dirhist_3='/home/mai/.ncmpcpp'
-let g:netrw_dirhist_2='/home/mai/.config/polybar'
-let g:netrw_dirhist_1='/home/mai/.config/picom'
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/trucmai/.vim'
+let g:netrw_dirhist_4='/home/trucmai/.config/fish/functions'
+let g:netrw_dirhist_3='/home/trucmai/.config'
+let g:netrw_dirhist_2='/home/trucmai/dotfiles'
+let g:netrw_dirhist_1='/home/trucmai/.vim'

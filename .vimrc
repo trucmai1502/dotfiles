@@ -53,7 +53,10 @@ nnoremap <silent> <Leader>+ :exe "resize " . (winheight(0) * 3/2)<CR>
 nnoremap <silent> <Leader>- :exe "resize " . (winheight(0) * 2/3)<CR>
 nnoremap <silent> <C-c> :call system("xclip -selection clipboard", @")<CR>
 map <F5> :!g++ -g % -o %:r && ./%:r <CR>
+autocmd BufNewFile *.cpp -r ~/.vim/template.cpp 
 
+ " provide path directly to the library file
+ let g:clang_library_path='/usr/lib/llvm-14/lib/libclang-14.so.1'
 
 set number 
 set clipboard=unnamed

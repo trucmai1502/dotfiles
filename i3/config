@@ -4,11 +4,11 @@ font pango: monospace 8
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec sakura
+bindsym $mod+Return exec alacritty
 
 #Floatting terminal
 for_window [class="sakura"] floating enable
-bindsym $mod+Shift+Return exec sakura --class sakura
+bindsym $mod+Shift+Return exec alacritty --class sakura
 
 #start a browser
 # kill focused window
@@ -16,9 +16,8 @@ bindsym $mod+Shift+q kill
 
 #start rofi 
 bindsym $mod+d exec rofi -show combi -show-icons -theme "android_notification"
-bindsym $mod+g exec rofi -show drun -show-icons -theme "android_notification"
-bindsym $mod+Shift+d exec rofi -show filebrowser -show-icons -theme "android_notification"
-bindsym $mod+Shift+p exec rofi -show power-menu -modi power-menu:rofi-power-menu -theme "android_notification"
+bindsym $mod+Shift+d exec rofi -show drun -show-icons -theme "android_notification"
+bindsym $mod+g exec rofi -show filebrowser -show-icons -theme "android_notification"
 
 bindsym $mod+j focus left
 bindsym $mod+k focus down
@@ -127,27 +126,24 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 #Start up
-exec ibus-setup
 exec blueman-tray 
 #Gaps
 exec_always picom --config ~/.config/picom/picom.conf 
 for_window [class=".*"] border pixel 0
-gaps inner 8
-gaps outer 4
+gaps inner 4
+gaps outer 2
 #Background changes
-exec_always xsetroot -solid "#BAC6CD"
-exec xrandr --output eDP-1 --scale 0.5x0.5
-exec xrandr --output HDMI-1 --scale 1x1
-exec_always feh --bg-fill --randomize  ~/Pictures/tkmiz
-#exec_always feh --bg-fill ~/Pictures/FMXEszIagAMPvHS.jpeg
+#exec_always xsetroot -solid "#BAC6CD"
+#exec xrandr --output eDP-1 --scale 0.5x0.5
+#exec xrandr --output HDMI-1 --scale 1x1
+exec_always feh --bg-fill ~/106542355_p0.jpg
+
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-exec_always --no-startup-id ~/.config/polybar/launch.sh
+exec_always --no-startup-id ~/.config/polybar/launch.sh --shapes
 # I/O config 
-exec_always xinput set-prop "Microsoft Surface Type Cover Touchpad" "libinput Tapping Enabled" 1
-exec_always xinput set-prop "IPTS Touch" "Device Enabled" 0
-
+exec_always xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
 
 # Brightness
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
@@ -162,7 +158,7 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute s
 ## Clipboard Screenshots
 bindsym Ctrl+Print exec --no-startup-id maim | xclip -selection clipboard -t image/png
 bindsym Ctrl+$mod+Print exec --no-startup-id maim --window $(xdotool getactivewindow) | xclip -selection clipboard -t image/png
-bindsym Ctrl+Shift+Print exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
+bindsym $mod+Shift+p exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
 
 # Media player controls
 bindsym XF86AudioPlay exec playerctl play-pause
