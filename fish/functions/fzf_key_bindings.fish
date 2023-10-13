@@ -1,1 +1,0 @@
-/home/trucmai/.fzf/shell/key-bindings.fish
