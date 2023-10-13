@@ -1,0 +1,19 @@
+2023/10/07-09:50:23.514 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-09:50:23.514 13df1 Recovering log #104
+2023/10/07-09:50:23.514 13df1 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb/000104.log 
+2023/10/07-09:50:27.139 13df4 Level-0 table #112: started
+2023/10/07-09:50:27.145 13df4 Level-0 table #112: 381996 bytes OK
+2023/10/07-09:50:27.152 13df4 Delete type=0 #104
+2023/10/07-09:50:27.152 13df1 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/07-09:50:30.005 13df2 Compacting 1@1 + 4@2 files
+2023/10/07-09:50:30.026 13df2 Generated table #113@1: 6693 keys, 2129282 bytes
+2023/10/07-09:50:30.046 13df2 Generated table #114@1: 9772 keys, 2147034 bytes
+2023/10/07-09:50:30.066 13df2 Generated table #115@1: 3728 keys, 2117762 bytes
+2023/10/07-09:50:30.081 13df2 Generated table #116@1: 10948 keys, 1091836 bytes
+2023/10/07-09:50:30.081 13df2 Compacted 1@1 + 4@2 files => 7485914 bytes
+2023/10/07-09:50:30.087 13df2 compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/10/07-09:50:30.087 13df2 Delete type=2 #109
+2023/10/07-09:50:30.088 13df2 Delete type=2 #107
+2023/10/07-09:50:30.088 13df2 Delete type=2 #108
+2023/10/07-09:50:30.088 13df2 Delete type=2 #106
+2023/10/07-09:50:30.088 13df2 Delete type=2 #112

@@ -1,0 +1,39 @@
+2023/10/11-05:47:33.371 855a Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/11-05:47:33.372 855a Recovering log #1609
+2023/10/11-05:47:33.376 855a Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001609.log 
+2023/10/11-05:51:54.239 854c Level-0 table #1614: started
+2023/10/11-05:51:54.252 854c Level-0 table #1614: 1218358 bytes OK
+2023/10/11-05:51:54.257 854c Delete type=0 #1609
+2023/10/11-05:53:05.427 854c Compacting 1@1 + 1@2 files
+2023/10/11-05:53:05.434 854c Generated table #1615@1: 876 keys, 73874 bytes
+2023/10/11-05:53:05.434 854c Compacted 1@1 + 1@2 files => 73874 bytes
+2023/10/11-05:53:05.438 854c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/11-05:53:05.438 854c Delete type=2 #1611
+2023/10/11-05:53:05.438 854c Delete type=2 #1614
+2023/10/11-13:09:26.006 855a Level-0 table #1617: started
+2023/10/11-13:09:26.017 855a Level-0 table #1617: 1077791 bytes OK
+2023/10/11-13:09:26.021 855a Delete type=0 #1613
+2023/10/11-13:09:43.122 854e Compacting 1@1 + 1@2 files
+2023/10/11-13:09:43.131 854e Generated table #1618@1: 848 keys, 68705 bytes
+2023/10/11-13:09:43.131 854e Compacted 1@1 + 1@2 files => 68705 bytes
+2023/10/11-13:09:43.137 854e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/11-13:09:43.137 854e Delete type=2 #1617
+2023/10/11-13:09:43.137 854e Delete type=2 #1615
+2023/10/11-13:22:14.858 854c Level-0 table #1620: started
+2023/10/11-13:22:14.873 854c Level-0 table #1620: 1273269 bytes OK
+2023/10/11-13:22:14.877 854c Delete type=0 #1616
+2023/10/11-13:22:57.505 854c Compacting 1@1 + 1@2 files
+2023/10/11-13:22:57.512 854c Generated table #1621@1: 933 keys, 86483 bytes
+2023/10/11-13:22:57.512 854c Compacted 1@1 + 1@2 files => 86483 bytes
+2023/10/11-13:22:57.515 854c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/11-13:22:57.515 854c Delete type=2 #1620
+2023/10/11-13:22:57.515 854c Delete type=2 #1618
+2023/10/11-13:25:05.552 854c Level-0 table #1623: started
+2023/10/11-13:25:05.568 854c Level-0 table #1623: 1979295 bytes OK
+2023/10/11-13:25:05.573 854c Delete type=0 #1619
+2023/10/11-13:25:09.757 854e Compacting 1@1 + 1@2 files
+2023/10/11-13:25:09.764 854e Generated table #1624@1: 816 keys, 97056 bytes
+2023/10/11-13:25:09.764 854e Compacted 1@1 + 1@2 files => 97056 bytes
+2023/10/11-13:25:09.768 854e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/11-13:25:09.768 854e Delete type=2 #1621
+2023/10/11-13:25:09.768 854e Delete type=2 #1623

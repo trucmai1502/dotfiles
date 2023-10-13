@@ -1,0 +1,6 @@
+2023/10/01-19:10:08.532 ad6 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_wiki.dtth.ch_0.indexeddb.leveldb since it was missing.
+2023/10/01-19:10:08.542 ad6 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_wiki.dtth.ch_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/01-19:10:17.595 ad7 Level-0 table #5: started
+2023/10/01-19:10:17.599 ad7 Level-0 table #5: 4989 bytes OK
+2023/10/01-19:10:17.603 ad7 Delete type=0 #3
+2023/10/01-19:10:17.603 ad7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

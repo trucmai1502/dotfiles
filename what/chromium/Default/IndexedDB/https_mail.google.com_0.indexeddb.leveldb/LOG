@@ -1,0 +1,25 @@
+2023/10/06-20:52:00.683 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/06-20:52:00.683 13df1 Recovering log #11
+2023/10/06-20:52:00.689 13df1 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2023/10/06-20:52:13.406 13df2 Level-0 table #16: started
+2023/10/06-20:52:13.426 13df2 Level-0 table #16: 2353041 bytes OK
+2023/10/06-20:52:13.431 13df2 Delete type=0 #11
+2023/10/06-20:58:26.443 13df2 Level-0 table #18: started
+2023/10/06-20:58:26.453 13df2 Level-0 table #18: 735818 bytes OK
+2023/10/06-20:58:26.457 13df2 Delete type=0 #15
+2023/10/06-20:58:26.457 13df2 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 9627 : 0
+2023/10/06-20:58:26.457 13df2 Compacting 1@0 + 1@1 files
+2023/10/06-20:58:26.474 13df2 Generated table #19@0: 1282 keys, 640226 bytes
+2023/10/06-20:58:26.474 13df2 Compacted 1@0 + 1@1 files => 640226 bytes
+2023/10/06-20:58:26.477 13df2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/06-20:58:26.478 13df2 Delete type=2 #18
+2023/10/06-20:58:26.478 13df2 Delete type=2 #16
+2023/10/06-20:58:26.479 13df2 Manual compaction at level-0 from '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 9627 : 0 .. (end); will stop at (end)
+2023/10/06-20:58:26.479 13df2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 9627 : 0
+2023/10/06-20:58:26.479 13df2 Compacting 1@1 + 1@2 files
+2023/10/06-20:58:26.484 13df2 Generated table #20@1: 100 keys, 122833 bytes
+2023/10/06-20:58:26.484 13df2 Compacted 1@1 + 1@2 files => 122833 bytes
+2023/10/06-20:58:26.487 13df2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/06-20:58:26.488 13df2 Delete type=2 #13
+2023/10/06-20:58:26.488 13df2 Delete type=2 #19
+2023/10/06-20:58:26.488 13df2 Manual compaction at level-1 from '\x00\x02\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 9627 : 0 .. (end); will stop at (end)

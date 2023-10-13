@@ -1,0 +1,9 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[General]
+clipboardGroup=PostScreenshotCopyImage
+onLaunchAction=DoNotTakeScreenshot
+
+[Save]
+lastSaveLocation=file:///home/trucmai/Pictures/Screenshot_20230917_224727.png

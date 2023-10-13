@@ -1,0 +1,6 @@
+2023/10/11-17:15:32.689 854c Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/11-17:15:32.690 854c Recovering log #1622
+2023/10/11-17:15:32.697 854c Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001622.log 
+2023/10/11-17:15:55.114 854b Level-0 table #1627: started
+2023/10/11-17:15:55.132 854b Level-0 table #1627: 1762222 bytes OK
+2023/10/11-17:15:55.137 854b Delete type=0 #1622

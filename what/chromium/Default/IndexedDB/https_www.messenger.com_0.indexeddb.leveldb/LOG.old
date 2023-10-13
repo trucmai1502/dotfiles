@@ -1,0 +1,12 @@
+2023/10/10-18:11:46.492 854b Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/10-18:11:46.492 854b Recovering log #65
+2023/10/10-18:11:46.514 854b Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000065.log 
+2023/10/10-21:01:45.657 854c Level-0 table #70: started
+2023/10/10-21:01:45.680 854c Level-0 table #70: 1539687 bytes OK
+2023/10/10-21:01:45.685 854c Delete type=0 #65
+2023/10/10-21:29:30.722 854c Compacting 1@1 + 1@2 files
+2023/10/10-21:29:30.745 854c Generated table #71@1: 2325 keys, 145012 bytes
+2023/10/10-21:29:30.745 854c Compacted 1@1 + 1@2 files => 145012 bytes
+2023/10/10-21:29:30.749 854c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/10-21:29:30.749 854c Delete type=2 #67
+2023/10/10-21:29:30.749 854c Delete type=2 #70

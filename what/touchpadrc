@@ -1,0 +1,9 @@
+[parameters]
+CircScrollDelta=5.73
+HorizScrollDelta=2.7
+MaxTapMove=3.4
+OneFingerTapButton=LeftButton
+Tapping=false
+ThreeFingerTapButton=MiddleButton
+TwoFingerTapButton=RightButton
+VertScrollDelta=1.9

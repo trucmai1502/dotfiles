@@ -1,0 +1,6 @@
+2023/10/01-23:24:36.211 ad6 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_profiles.topcoder.com_0.indexeddb.leveldb since it was missing.
+2023/10/01-23:24:36.219 ad6 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_profiles.topcoder.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/02-00:10:09.807 ad7 Level-0 table #5: started
+2023/10/02-00:10:09.811 ad7 Level-0 table #5: 2255 bytes OK
+2023/10/02-00:10:09.815 ad7 Delete type=0 #3
+2023/10/02-00:10:09.815 ad7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

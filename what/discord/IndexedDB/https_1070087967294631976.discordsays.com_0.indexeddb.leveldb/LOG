@@ -1,0 +1,15 @@
+2023/10/12-11:49:30.923 2a9e4 Reusing MANIFEST /home/trucmai/.config/discord/IndexedDB/https_1070087967294631976.discordsays.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/12-11:49:30.924 2a9e4 Recovering log #4
+2023/10/12-11:49:30.924 2a9e4 Reusing old log /home/trucmai/.config/discord/IndexedDB/https_1070087967294631976.discordsays.com_0.indexeddb.leveldb/000004.log 
+2023/10/12-11:57:32.760 2ad43 Level-0 table #8: started
+2023/10/12-11:57:32.763 2ad43 Level-0 table #8: 730 bytes OK
+2023/10/12-11:57:32.767 2ad43 Delete type=0 #4
+2023/10/12-11:57:32.767 2ad43 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/12-11:57:32.767 2ad43 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x003\x009\x002\x008\x006\x008\x007\x003' @ 93 : 1
+2023/10/12-11:57:32.767 2ad43 Compacting 1@1 + 1@2 files
+2023/10/12-11:57:32.770 2ad43 Generated table #9@1: 19 keys, 609 bytes
+2023/10/12-11:57:32.770 2ad43 Compacted 1@1 + 1@2 files => 609 bytes
+2023/10/12-11:57:32.773 2ad43 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/12-11:57:32.774 2ad43 Delete type=2 #5
+2023/10/12-11:57:32.774 2ad43 Delete type=2 #8
+2023/10/12-11:57:32.774 2ad43 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x005\x003\x009\x002\x008\x006\x008\x007\x003' @ 93 : 1 .. (end); will stop at (end)

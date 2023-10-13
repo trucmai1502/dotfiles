@@ -1,0 +1,15 @@
+2023/10/07-21:18:07.754 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-21:18:07.754 13df1 Recovering log #4
+2023/10/07-21:18:07.755 13df1 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000004.log 
+2023/10/07-21:18:48.230 13df4 Level-0 table #8: started
+2023/10/07-21:18:48.234 13df4 Level-0 table #8: 69655 bytes OK
+2023/10/07-21:18:48.237 13df4 Delete type=0 #4
+2023/10/07-21:18:48.238 13df4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/07-21:18:48.238 13df4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`c\x14\xa8\xb0xB\x00\x01M\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00p\x00e\x00n\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00c\x00d\x00n\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00e\x00q\x00u\x00a\x00l\x00i\x00s\x00e\x00r\x00-\x00g\x00r\x00e\x00e\x00n\x00.\x00f\x008\x009\x003\x007\x00a\x009\x002\x00.\x00s\x00v\x00g' @ 2082 : 1
+2023/10/07-21:18:48.238 13df4 Compacting 1@1 + 1@2 files
+2023/10/07-21:18:48.242 13df4 Generated table #9@1: 319 keys, 30249 bytes
+2023/10/07-21:18:48.242 13df4 Compacted 1@1 + 1@2 files => 30249 bytes
+2023/10/07-21:18:48.245 13df4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/07-21:18:48.246 13df4 Delete type=2 #5
+2023/10/07-21:18:48.246 13df4 Delete type=2 #8
+2023/10/07-21:18:48.246 13df4 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`c\x14\xa8\xb0xB\x00\x01M\x00i\x00m\x00a\x00g\x00e\x00s\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00p\x00e\x00n\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00c\x00d\x00n\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00e\x00q\x00u\x00a\x00l\x00i\x00s\x00e\x00r\x00-\x00g\x00r\x00e\x00e\x00n\x00.\x00f\x008\x009\x003\x007\x00a\x009\x002\x00.\x00s\x00v\x00g' @ 2082 : 1 .. (end); will stop at (end)

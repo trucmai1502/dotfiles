@@ -1,0 +1,6 @@
+2023/09/30-12:41:59.773 62c Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_berserk.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/09/30-12:41:59.781 62c Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_berserk.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/30-12:43:45.202 62c Level-0 table #5: started
+2023/09/30-12:43:45.207 62c Level-0 table #5: 81891 bytes OK
+2023/09/30-12:43:45.212 62c Delete type=0 #3
+2023/09/30-12:43:45.212 62c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

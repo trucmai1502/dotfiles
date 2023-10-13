@@ -1,0 +1,6 @@
+2023/10/13-12:19:17.365 7a3 Reusing MANIFEST /home/trucmai/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/10/13-12:19:17.366 7a3 Recovering log #1680
+2023/10/13-12:19:17.366 7a3 Reusing old log /home/trucmai/.config/discord/Local Storage/leveldb/001680.log 
+2023/10/13-12:25:54.029 74f Level-0 table #1684: started
+2023/10/13-12:25:54.089 74f Level-0 table #1684: 4015598 bytes OK
+2023/10/13-12:25:54.094 74f Delete type=0 #1680

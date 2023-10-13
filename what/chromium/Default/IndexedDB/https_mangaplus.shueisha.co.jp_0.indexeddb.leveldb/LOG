@@ -1,0 +1,13 @@
+2023/10/04-23:34:54.620 13df2 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_mangaplus.shueisha.co.jp_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/04-23:34:54.620 13df2 Recovering log #32
+2023/10/04-23:34:54.620 13df2 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_mangaplus.shueisha.co.jp_0.indexeddb.leveldb/000032.log 
+2023/10/04-23:34:54.639 13df4 Level-0 table #36: started
+2023/10/04-23:34:54.642 13df4 Level-0 table #36: 619 bytes OK
+2023/10/04-23:34:54.645 13df4 Delete type=0 #32
+2023/10/04-23:34:54.646 13df4 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 143 : 1
+2023/10/04-23:34:54.646 13df4 Compacting 1@0 + 1@1 files
+2023/10/04-23:34:54.648 13df4 Generated table #37@0: 4 keys, 259 bytes
+2023/10/04-23:34:54.648 13df4 Compacted 1@0 + 1@1 files => 259 bytes
+2023/10/04-23:34:54.652 13df4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/04-23:34:54.652 13df4 Delete type=2 #36
+2023/10/04-23:34:54.652 13df4 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 143 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

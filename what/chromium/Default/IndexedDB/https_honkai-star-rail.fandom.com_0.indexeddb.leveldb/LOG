@@ -1,0 +1,6 @@
+2023/09/28-23:22:47.869 9694 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_honkai-star-rail.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/09/28-23:22:47.878 9694 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_honkai-star-rail.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/28-23:23:20.976 9694 Level-0 table #5: started
+2023/09/28-23:23:20.983 9694 Level-0 table #5: 263196 bytes OK
+2023/09/28-23:23:20.986 9694 Delete type=0 #3
+2023/09/28-23:23:20.987 9694 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

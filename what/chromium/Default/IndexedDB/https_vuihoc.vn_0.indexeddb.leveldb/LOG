@@ -1,0 +1,26 @@
+2023/10/11-01:56:42.720 854b Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_vuihoc.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/11-01:56:42.720 854b Recovering log #6
+2023/10/11-01:56:42.720 854b Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_vuihoc.vn_0.indexeddb.leveldb/000006.log 
+2023/10/11-01:56:42.777 854e Level-0 table #11: started
+2023/10/11-01:56:42.780 854e Level-0 table #11: 573 bytes OK
+2023/10/11-01:56:42.787 854e Delete type=0 #6
+2023/10/11-01:56:42.787 854e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/11-01:57:39.732 854c Level-0 table #13: started
+2023/10/11-01:57:39.736 854c Level-0 table #13: 1444 bytes OK
+2023/10/11-01:57:39.741 854c Delete type=0 #10
+2023/10/11-01:57:39.741 854c Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x006\x009\x006\x000\x004\x000\x007\x003\x001\x004\x000\x00:\x00w\x00e\x00b\x00:\x006\x004\x006\x009\x00c\x00c\x000\x005\x00f\x00f\x000\x000\x000\x008\x00f\x004\x00e\x006\x008\x009\x00e\x001' @ 111 : 1
+2023/10/11-01:57:39.741 854c Compacting 1@0 + 1@1 files
+2023/10/11-01:57:39.745 854c Generated table #14@0: 20 keys, 1348 bytes
+2023/10/11-01:57:39.745 854c Compacted 1@0 + 1@1 files => 1348 bytes
+2023/10/11-01:57:39.748 854c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/11-01:57:39.748 854c Delete type=2 #11
+2023/10/11-01:57:39.748 854c Delete type=2 #13
+2023/10/11-01:57:39.749 854c Manual compaction at level-0 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x006\x009\x006\x000\x004\x000\x007\x003\x001\x004\x000\x00:\x00w\x00e\x00b\x00:\x006\x004\x006\x009\x00c\x00c\x000\x005\x00f\x00f\x000\x000\x000\x008\x00f\x004\x00e\x006\x008\x009\x00e\x001' @ 111 : 1 .. (end); will stop at (end)
+2023/10/11-01:57:39.749 854c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x006\x009\x006\x000\x004\x000\x007\x003\x001\x004\x000\x00:\x00w\x00e\x00b\x00:\x006\x004\x006\x009\x00c\x00c\x000\x005\x00f\x00f\x000\x000\x000\x008\x00f\x004\x00e\x006\x008\x009\x00e\x001' @ 119 : 1
+2023/10/11-01:57:39.749 854c Compacting 1@1 + 1@2 files
+2023/10/11-01:57:39.752 854c Generated table #15@1: 21 keys, 1346 bytes
+2023/10/11-01:57:39.752 854c Compacted 1@1 + 1@2 files => 1346 bytes
+2023/10/11-01:57:39.755 854c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/11-01:57:39.755 854c Delete type=2 #14
+2023/10/11-01:57:39.755 854c Delete type=2 #8
+2023/10/11-01:57:39.755 854c Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x006\x009\x006\x000\x004\x000\x007\x003\x001\x004\x000\x00:\x00w\x00e\x00b\x00:\x006\x004\x006\x009\x00c\x00c\x000\x005\x00f\x00f\x000\x000\x000\x008\x00f\x004\x00e\x006\x008\x009\x00e\x001' @ 119 : 1 .. (end); will stop at (end)

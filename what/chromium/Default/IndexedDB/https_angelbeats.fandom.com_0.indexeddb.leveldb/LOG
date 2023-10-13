@@ -1,0 +1,6 @@
+2023/10/04-00:34:52.600 635 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_angelbeats.fandom.com_0.indexeddb.leveldb since it was missing.
+2023/10/04-00:34:52.608 635 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_angelbeats.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/04-00:35:24.557 636 Level-0 table #5: started
+2023/10/04-00:35:24.562 636 Level-0 table #5: 108349 bytes OK
+2023/10/04-00:35:24.566 636 Delete type=0 #3
+2023/10/04-00:35:24.566 636 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

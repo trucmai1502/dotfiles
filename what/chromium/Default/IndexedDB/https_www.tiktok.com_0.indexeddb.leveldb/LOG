@@ -1,0 +1,6 @@
+2023/10/03-19:36:36.986 635 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb since it was missing.
+2023/10/03-19:36:37.002 635 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/03-19:37:19.144 636 Level-0 table #5: started
+2023/10/03-19:37:19.147 636 Level-0 table #5: 825 bytes OK
+2023/10/03-19:37:19.150 636 Delete type=0 #3
+2023/10/03-19:37:19.151 636 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
