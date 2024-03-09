@@ -1,6 +1,0 @@
-2023/10/09-19:32:26.994 78f Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb since it was missing.
-2023/10/09-19:32:27.010 78f Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/09-19:32:42.748 790 Level-0 table #5: started
-2023/10/09-19:32:42.752 790 Level-0 table #5: 1084 bytes OK
-2023/10/09-19:32:42.755 790 Delete type=0 #3
-2023/10/09-19:32:42.756 790 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

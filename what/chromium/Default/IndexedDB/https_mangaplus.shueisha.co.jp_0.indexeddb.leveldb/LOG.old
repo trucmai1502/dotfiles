@@ -1,7 +1,0 @@
-2023/10/04-23:34:47.922 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_mangaplus.shueisha.co.jp_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/04-23:34:47.922 13df1 Recovering log #27
-2023/10/04-23:34:47.922 13df1 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_mangaplus.shueisha.co.jp_0.indexeddb.leveldb/000027.log 
-2023/10/04-23:34:47.935 13df4 Level-0 table #33: started
-2023/10/04-23:34:47.938 13df4 Level-0 table #33: 601 bytes OK
-2023/10/04-23:34:47.941 13df4 Delete type=0 #27
-2023/10/04-23:34:47.942 13df1 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

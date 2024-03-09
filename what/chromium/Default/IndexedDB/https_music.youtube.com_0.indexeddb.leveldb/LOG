@@ -1,6 +1,0 @@
-2023/09/27-00:24:41.827 22f3 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb since it was missing.
-2023/09/27-00:24:41.837 22f3 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/27-00:25:45.664 22f4 Level-0 table #5: started
-2023/09/27-00:25:45.668 22f4 Level-0 table #5: 62480 bytes OK
-2023/09/27-00:25:45.672 22f4 Delete type=0 #3
-2023/09/27-00:25:45.672 22f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

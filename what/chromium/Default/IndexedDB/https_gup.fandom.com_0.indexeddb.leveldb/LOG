@@ -1,7 +1,0 @@
-2023/09/28-19:45:06.581 9693 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_gup.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/28-19:45:06.581 9693 Recovering log #3
-2023/09/28-19:45:06.597 9693 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_gup.fandom.com_0.indexeddb.leveldb/000003.log 
-2023/09/28-20:13:44.032 9694 Level-0 table #5: started
-2023/09/28-20:13:44.043 9694 Level-0 table #5: 497441 bytes OK
-2023/09/28-20:13:44.047 9694 Delete type=0 #3
-2023/09/28-20:13:44.048 9694 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

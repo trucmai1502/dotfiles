@@ -1,6 +1,0 @@
-2023/10/05-13:45:22.307 13df1 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_revuestarlight.fandom.com_0.indexeddb.leveldb since it was missing.
-2023/10/05-13:45:22.316 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_revuestarlight.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/05-13:59:01.246 13df2 Level-0 table #5: started
-2023/10/05-13:59:01.253 13df2 Level-0 table #5: 282627 bytes OK
-2023/10/05-13:59:01.257 13df2 Delete type=0 #3
-2023/10/05-13:59:01.257 13df2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

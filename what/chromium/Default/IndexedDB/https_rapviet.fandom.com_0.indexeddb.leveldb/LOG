@@ -1,6 +1,0 @@
-2023/10/05-23:19:40.841 13df1 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_rapviet.fandom.com_0.indexeddb.leveldb since it was missing.
-2023/10/05-23:19:40.849 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_rapviet.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/05-23:20:03.187 13df1 Level-0 table #5: started
-2023/10/05-23:20:03.191 13df1 Level-0 table #5: 46489 bytes OK
-2023/10/05-23:20:03.195 13df1 Delete type=0 #3
-2023/10/05-23:20:03.195 13df1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

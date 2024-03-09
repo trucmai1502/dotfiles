@@ -1,7 +1,0 @@
-2023/09/30-15:04:38.776 62b Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_cellphones.com.vn_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/30-15:04:38.776 62b Recovering log #3
-2023/09/30-15:04:38.777 62b Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_cellphones.com.vn_0.indexeddb.leveldb/000003.log 
-2023/09/30-15:04:43.431 62c Level-0 table #5: started
-2023/09/30-15:04:43.435 62c Level-0 table #5: 12451 bytes OK
-2023/09/30-15:04:43.439 62c Delete type=0 #3
-2023/09/30-15:04:43.440 62c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

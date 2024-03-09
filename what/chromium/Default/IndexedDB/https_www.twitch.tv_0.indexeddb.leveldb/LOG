@@ -1,6 +1,0 @@
-2023/10/06-14:34:47.736 13df1 Creating DB /home/trucmai/.config/chromium/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
-2023/10/06-14:34:47.752 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/06-14:35:19.774 13df2 Level-0 table #5: started
-2023/10/06-14:35:19.777 13df2 Level-0 table #5: 845 bytes OK
-2023/10/06-14:35:19.781 13df2 Delete type=0 #3
-2023/10/06-14:35:19.781 13df2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

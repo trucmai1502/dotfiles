@@ -1,7 +1,0 @@
-2023/10/01-21:30:37.664 ad7 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_knowyourmeme.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/01-21:30:37.664 ad7 Recovering log #3
-2023/10/01-21:30:37.664 ad7 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_knowyourmeme.com_0.indexeddb.leveldb/000003.log 
-2023/10/01-21:31:52.327 ad7 Level-0 table #5: started
-2023/10/01-21:31:52.330 ad7 Level-0 table #5: 1200 bytes OK
-2023/10/01-21:31:52.334 ad7 Delete type=0 #3
-2023/10/01-21:31:52.334 ad7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

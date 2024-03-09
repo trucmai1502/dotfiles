@@ -1,7 +1,0 @@
-2023/10/04-15:00:39.087 13df1 Reusing MANIFEST /home/trucmai/.config/chromium/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/04-15:00:39.087 13df1 Recovering log #3
-2023/10/04-15:00:39.087 13df1 Reusing old log /home/trucmai/.config/chromium/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb/000003.log 
-2023/10/04-15:15:56.192 13df2 Level-0 table #5: started
-2023/10/04-15:15:56.196 13df2 Level-0 table #5: 52221 bytes OK
-2023/10/04-15:15:56.201 13df2 Delete type=0 #3
-2023/10/04-15:15:56.201 13df2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
