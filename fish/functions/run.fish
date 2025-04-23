@@ -1,6 +1,6 @@
 function run
     g++ $argv -Wall -DLOCAL -o exc
-    time ./exc 
+    ./exc 
 end
 
 alias nvim "lvim"
